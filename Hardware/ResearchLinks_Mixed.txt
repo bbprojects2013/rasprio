@@ -1,0 +1,3 @@
+http://www.rn-wissen.de/index.php/Raspberry_PI:_Internetradio
+http://sourceforge.net/p/raspberrypiwebr/wiki/Home/
+
